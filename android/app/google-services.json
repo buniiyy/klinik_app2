@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524017865385",
+    "project_id": "klinik-app-d5f69",
+    "storage_bucket": "klinik-app-d5f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524017865385:android:45cf1aad9b9691304f8fb8",
+        "android_client_info": {
+          "package_name": "com.bani.klinik_app2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArwEQgiUY_chB70_JqoE1D_Wiqgsccb4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
